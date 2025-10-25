@@ -1,0 +1,11 @@
+html {
+    background-color:coral;
+    max-width:800px;
+    
+}
+
+body {
+    background-color:moccasin;
+    max-width:800px;
+    margin:0 300px 0 300px;
+}
