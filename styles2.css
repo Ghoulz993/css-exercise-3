@@ -1,11 +1,17 @@
 html {
     background-color:coral;
-    max-width:800px;
+    
     
 }
 
 body {
+    margin:0;
     background-color:moccasin;
-    max-width:800px;
-    margin:0 300px 0 300px;
+    padding:20px 0 20px 0;
+}
+
+.content {
+    max-width:600px;
+    margin:auto;
+    
 }
