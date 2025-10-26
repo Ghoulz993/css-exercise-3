@@ -1,0 +1,23 @@
+body {
+    margin:0;
+}
+
+.header {
+    background-color:moccasin;
+    padding:60px;
+}
+
+.main {
+    background-color:crimson;
+    padding:60px;
+}
+
+.footer {
+    background-color:rgb(236, 124, 147);
+    padding:60px;
+}
+
+.wrapper {
+    max-width:600px;
+    margin:auto;
+}
